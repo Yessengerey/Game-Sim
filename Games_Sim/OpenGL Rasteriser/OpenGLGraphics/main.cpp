@@ -1,3 +1,5 @@
+//Done by: Yessengerey Bolatov
+
 #include "GameInit.h"
 #include "GameLogic.h"
 #include <cstdlib>
