@@ -1,0 +1,40 @@
+﻿  Shader.cpp
+i:\games_sim\opengl rasteriser\glew\include\gl\wglew.h(79): warning C4005: 'GLEWAPI' : macro redefinition
+          i:\games_sim\opengl rasteriser\glew\include\gl\glew.h(205) : see previous definition of 'GLEWAPI'
+  RenderObject.cpp
+  Renderer.cpp
+  Physics.cpp
+  Mesh.cpp
+i:\games_sim\opengl rasteriser\openglgraphics\mesh.cpp(139): warning C4018: '<' : signed/unsigned mismatch
+i:\games_sim\opengl rasteriser\openglgraphics\mesh.cpp(236): warning C4018: '<' : signed/unsigned mismatch
+  main.cpp
+  GameLogic.cpp
+i:\games_sim\opengl rasteriser\openglgraphics\gamelogic.cpp(121): warning C4018: '<' : signed/unsigned mismatch
+i:\games_sim\opengl rasteriser\openglgraphics\gamelogic.cpp(236): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+i:\games_sim\opengl rasteriser\openglgraphics\gamelogic.cpp(297): warning C4018: '<' : signed/unsigned mismatch
+i:\games_sim\opengl rasteriser\openglgraphics\gamelogic.cpp(307): warning C4018: '<' : signed/unsigned mismatch
+i:\games_sim\opengl rasteriser\openglgraphics\gamelogic.cpp(336): warning C4018: '<' : signed/unsigned mismatch
+i:\games_sim\opengl rasteriser\openglgraphics\gamelogic.cpp(365): warning C4018: '<' : signed/unsigned mismatch
+i:\games_sim\opengl rasteriser\openglgraphics\gamelogic.cpp(413): warning C4018: '<' : signed/unsigned mismatch
+  GameInit.cpp
+i:\games_sim\opengl rasteriser\openglgraphics\gameinit.cpp(108): warning C4018: '<' : signed/unsigned mismatch
+i:\games_sim\opengl rasteriser\openglgraphics\gameinit.cpp(140): warning C4018: '<' : signed/unsigned mismatch
+i:\games_sim\opengl rasteriser\openglgraphics\gameinit.cpp(198): warning C4018: '<' : signed/unsigned mismatch
+  Entity.cpp
+  Generating Code...
+Shader.obj : warning LNK4049: locally defined symbol ___glewAttachShader imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewBindAttribLocation imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewCompileShader imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewCreateProgram imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewCreateShader imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewDeleteProgram imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewDeleteShader imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewDetachShader imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewGetProgramInfoLog imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewGetProgramiv imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewGetShaderiv imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewLinkProgram imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewShaderSource imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewGetInfoLogARB imported
+glew32sd.lib(glew.obj) : warning LNK4204: 'I:\Games_Sim\OpenGL Rasteriser\OpenGLGraphics\Debug\vc120.pdb' is missing debugging information for referencing module; linking object as if no debug info
+  OpenGLGraphics.vcxproj -> I:\Games_Sim\OpenGL Rasteriser\OpenGLGraphics\Debug\OpenGLGraphics.exe
